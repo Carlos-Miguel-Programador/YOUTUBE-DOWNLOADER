@@ -1,0 +1,82 @@
+# Arquivos de compilação
+*.o
+*.out
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de dependências
+*.dep
+*.dSYM/
+*.pdb
+
+# Arquivos de log e dados
+*.log
+*.bak
+*.cache
+*.swp
+*.sql
+*.sqlite
+*.sqlite3
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Arquivos de mídia
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.tif
+*.tiff
+*.svg
+*.bmp
+*.webp
+*.mp3
+*.mp4
+*.avi
+*.mov
+
+# Arquivos de documentação
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.key
+*.odt
+*.ods
+*.odp
+
+# Diretórios de saída
+bin/
+dist/
+build/
+out/
+target/
+
+# Arquivos de configuração de IDEs
+.idea/
+.vscode/
+*.sublime-*
+*.suo
+*.user
+*.sln
+*.suo
+*.tmproj
+*.tmproject
+*.tmp
+*.sw*
+*.sublime-workspace
+Thumbs.db
+.DS_Store
+
+# Pacotes e dependências
+node_modules/
+vendor/
